@@ -1,4 +1,4 @@
-// Determine se duas strings são permutação uma da outra. As strings, que nunca serão vazias, contêm palavras da língua inglesa em caixa baixa e sem pontuação. Algoritmo deve ter complexidade O(n).
+// Check if two strings are permutation of each other. The strings never be empty and are english words in lowercase.
 
 let string1 = "testing",
     string2 = "ingestt",
